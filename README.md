@@ -38,3 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ![a pic](img/2019-06-12-00-25-40.png)
 
 there is a pic
+
+setting no cache
