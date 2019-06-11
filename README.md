@@ -40,3 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 there is a pic
 
 setting no cache
+
+delete no cache
