@@ -41,4 +41,6 @@ there is a pic
 
 setting no cache
 
-delete no cache
+delete no cache  
+
+add cname
